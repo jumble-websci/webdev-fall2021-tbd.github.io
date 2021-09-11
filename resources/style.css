@@ -1,0 +1,56 @@
+/* ---Homepage Stuff--- */
+
+/* Background */
+#homeBody{
+  background-image: url("cool-texture.jpg");
+  background-size: cover;
+}
+
+/*Title text*/
+#titleText{
+  margin-top: .5vw;
+  margin-left: 10vw;
+  font-size: 5em;
+  margin-bottom: 0;
+}
+
+/* Slogan */
+#sloganText{
+  margin-left: 10vw;
+}
+
+/* Photos of projects */
+.photoProject {
+  width: 30vw;
+  height: 20vw;
+  margin-left: 5%;
+  margin-right: 5%;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+/* Photos of us as people */
+.photoPeople {
+  width: 20vw;
+  height: 20vw;
+  margin-left: 6%;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+/* The name text div */
+.name {
+  height: 15vw;
+  width: 10%;
+  margin-top: 0px;
+  margin-left: 10vw;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.name a {
+  font-size: 2em;
+  margin: auto;
+  margin-top: 7vw;
+  text-align: center;
+}
