@@ -9,14 +9,14 @@
 /*Title text*/
 #titleText{
   margin-top: .5vw;
-  margin-left: 10vw;
+  /* margin-left: 10vw; */
   font-size: 5em;
   margin-bottom: 0;
 }
 
 /* Slogan */
 #sloganText{
-  margin-left: 10vw;
+  /* margin-left: 10vw; */
   margin-bottom: .5vw;
 }
 
